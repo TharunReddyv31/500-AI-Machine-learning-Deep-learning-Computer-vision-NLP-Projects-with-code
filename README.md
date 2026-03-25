@@ -8,7 +8,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 
 ***This list is continuously updated.*** - You can take pull requests and contribute. All Links are tested and working fine. Please ping if any link doesn't work
 
-| Sr No | Name                                                         | Link                                                         |
+| Sr No | Name                                                        | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1     | 365 Days Computer Vision Learning                            | [👆](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post) |
 | 2     | 125+ NLP Language Models Treasure of Transformers            | [👆](https://github.com/ashishpatel26/Treasure-of-Transformers) |
